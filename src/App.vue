@@ -12,7 +12,7 @@ export default {
       // with hot-reload because the reloaded component
       // preserves its current state and we are modifying
       // its initial state.
-      msg: 'Hello Vue, but this is changed, and again, lotem ipsum'
+      msg: 'Hello Vue, but this is changed, and again, lotem ipsum, jojojojo'
     }
   }
 }
